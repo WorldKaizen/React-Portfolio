@@ -7,10 +7,10 @@ function App() {
       <PortfolioContainer />
       <footer>
         <ul>
-          <a href="https://www.linkedin.com/in/andrew-zuniga-eit/">LinkedIn</a>
+          <a href="https://www.linkedin.com/in/WorldKazien/">LinkedIn</a>
         </ul>
         <ul>
-          <a href="https://github.com/azun510">GitHub</a>
+          <a href="https://github.com/WorldKaizen">GitHub</a>
         </ul>
       </footer>
     </div>
